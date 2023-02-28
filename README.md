@@ -3,7 +3,7 @@
 The main purpose of this assignment was to implement Best-First, Uniform-Cost, and A-Star search algorithms given problems that can be reduced to a graph/tree involving states, actions, and a goal test for an end state.
 
 *hw3_utils.py* was provided by the professor and contains the parent classes for Problem and Node.
-*hw3.py* was the graded submission and contains the implementation for the search search algorithms, as well as implementations for the N-Queens, Graph, and Eight Puzzle Problems.
+*hw3.py* was the graded submission and contains the implementation for the search algorithms, as well as implementations for the N-Queens, Graph, and Eight Puzzle Problems.
 
 Finding a solution for N-Queens
 ```
